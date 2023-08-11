@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi, I’m TARUNABANSALA Welcome to my GitHub profile! I'm glad you stopped by. Here's a bit about me:
 
-<!--
-**TARUNABANSALA/TarunaBansala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in data analysis, machine learning, data visualization, and exploring new technologies and tools in the field of data science.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning advanced machine learning techniques, data engineering, and cloud computing to enhance my data analysis skills and leverage the power of scalable data platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💞️ I’m looking to collaborate on data-driven projects that involve extracting insights from large datasets, building predictive models, and creating interactive data visualizations.
+
+📫 How to reach me: tarunasbansala@gmail.com
+
+Here are some of the tools and technologies I work with:
+
+- Programming Languages: Python, JavaScript
+- Data Analysis and Visualization: Tableau, Matplotlib, Plotly
+- Machine Learning: Scikit-Learn, TensorFlow
+- Data Manipulation: Pandas
